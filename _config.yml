@@ -2,7 +2,7 @@
 title: The Pages of Ali R. Tariq
 email: alirushdan@artariq.com
 description: A site with my articles and projects and musings
-#baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: '/projectsite' # the subpath of your site, e.g. /blog/
 url: "http://artariq.com" # the base hostname & protocol for your site
 twitter_username: alirtariq
 #github_username:  jekyll
